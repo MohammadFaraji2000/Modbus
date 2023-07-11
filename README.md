@@ -1,3 +1,4 @@
+ASCII MODBUS
 
 Hi everyone, I am Mohammad Faraji. This is my Modbus ASCII library. here is the first version. Here we don't support RTOS or such OS like that but i hope in next versions, I add this property to it.
 If you have any questions about working with this library, you can email me with: amirmohamad14.faraji@gmail.com.
